@@ -3,4 +3,5 @@
 
     <string name="btn_standard_listener">Android standard listener</string>
     <string name="btn_rxbinding">RxBinding subscription</string>
+
 </resources>
