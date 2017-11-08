@@ -35,4 +35,8 @@ dependencies {
     // check on: https://github.com/JakeWharton/RxBinding
     // for RxBinding...
 
+    // Platform bindings:
+    compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+
+
 }
