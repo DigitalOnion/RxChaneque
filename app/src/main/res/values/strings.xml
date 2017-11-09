@@ -2,6 +2,7 @@
     <string name="app_name">RxChaneque</string>
 
     <string name="btn_standard_listener">Android standard listener</string>
-    <string name="btn_rxbinding">RxBinding subscription</string>
-
+    <string name="btn_rx_java_observable">RxJava Observable-Observer</string>
+    <string name="btn_rx_java_interval">Observable-Interval-Observer</string>
+    <string name="empty">...Empty...</string>
 </resources>

@@ -30,7 +30,7 @@ dependencies {
 
     // from https://github.com/ReactiveX/RxAndroid
     compile 'io.reactivex.rxjava2:rxjava:2.1.5'
-    //compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
 
     // check on: https://github.com/JakeWharton/RxBinding
     // for RxBinding...
